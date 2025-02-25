@@ -1,5 +1,6 @@
-Discord Session ID & Invite Joiner
+Discord Invite Joiner
 📜 Description
+
 This project allows you to fetch your Discord session ID and use it to join server invites programmatically. It utilizes WebSocket connections to Discord's gateway and sends appropriate requests with session and fingerprint data.
 
 ⚡ Features
